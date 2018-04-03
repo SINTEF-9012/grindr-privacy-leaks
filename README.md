@@ -55,6 +55,6 @@ We installed Grindr on a Samsung Galaxy running Android and on an iPhone running
 We analysed the Grindr network traffic by using a man-in-the-middle proxy recording HTTP and HTTPS exchanges, using a setup similar to the one described in the paper ["Who knows what about me? A survey of behind the scenes personal data sharing to third parties by mobile apps." (Zang, K., Dummit, J., Graves, P.L. and Latanya, S.  - Technology Science (2015)."](https://techscience.org/a/2015103001/download.pdf) 
 We used Wireshark to monitor all TCP/IP traffic, Fiddler to capture HTTP and HTTPS traffic, and APKTool to decompile the Android application.
 
-## Raw Data
 
-You will find this experiment's HTTP and HTTPS raw data in this repository.
+
+
